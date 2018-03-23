@@ -4,5 +4,5 @@ function setup() {
 
 function draw() {
  fill(mouseX, mouseY, 100);
- triangles(mouseX,mouseY,100,100);
+ ellipse(mouseX,mouseY,100,100);
 }
